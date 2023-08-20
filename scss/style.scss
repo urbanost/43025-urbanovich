@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import 'variables';
+@import 'header';
+@import 'hero';
+@import 'work';
+@import 'footer';
+@import 'media-queries';
+
+body {
+    background-color: #F8F4E9;
+}
+.logo {
+
+    width: 240.458px;
+    height: 33.618px;
+    flex-shrink: 0;
+}
+.textoResaltado{
+    color: #5D5CDC;
+}

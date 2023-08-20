@@ -1,0 +1,21 @@
+
+header {
+    background-color: $light;
+    border-bottom: 1px solid $dark;
+
+    .textoResaltado {
+        color: $primary;
+    }
+
+    .fuentes {
+        font-size: 16px;
+        font-weight: 300;
+        color: $dark;
+
+        li a:hover {
+            font-weight: bold;
+        }
+    }
+}
+
+

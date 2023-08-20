@@ -1,0 +1,58 @@
+
+
+#workSection {
+    background-color: $primary;
+    padding: 30px 0;
+
+    .workContent {
+        flex-shrink: 0;
+        width: 410px;
+
+        .workTitle {
+            color: $light;
+            font-family: Outfit;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 54px;
+            letter-spacing: 0.15px;
+            width: 410px;
+            height: 43px;
+            flex-shrink: 0;
+        }
+
+        .resumeTitle {
+            color: $dark;
+            font-family: Outfit;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 54px;
+            letter-spacing: 0.15px;
+            width: 410px;
+            height: 43px;
+            flex-shrink: 0;
+        }
+
+        .workText {
+            width: 485px;
+            height: 228px;
+            flex-shrink: 0;
+            color: $light;
+            font-family: Outfit;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 25px;
+            letter-spacing: 0.15px;
+        }
+
+        .workImage {
+            img {
+                width: 358px;
+                height: 203px;
+            }
+        }
+    }
+}
+

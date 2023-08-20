@@ -1,0 +1,28 @@
+
+
+footer {
+    background-color: $dark;
+    color: white;
+
+    .container.d-flex.justify-content-between {
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+
+    .logo {
+        width: 240.458px;
+        height: 33.618px;
+        flex-shrink: 0;
+    }
+
+    .custom-accordion {
+        background-color:  #F8F4E9;
+    }
+
+    .image-custom {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+}
